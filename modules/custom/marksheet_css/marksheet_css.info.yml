@@ -1,0 +1,7 @@
+name: Marksheet Css
+type: module
+description: 'Creating an ID card for user'
+package: custom
+version: '8.3.1'
+core: '8.x'
+project: 'marksheet css'

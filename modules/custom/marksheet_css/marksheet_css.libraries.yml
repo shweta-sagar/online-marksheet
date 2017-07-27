@@ -1,0 +1,4 @@
+user-id-card:
+  version: VERSION
+  css:
+    css/user-id-card.css: {}

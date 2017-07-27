@@ -1,0 +1,6 @@
+name : view_custom
+description : 'This module help to alter marksheet view'
+package : custom
+type: module
+version : 8.1.01
+core : 8.x

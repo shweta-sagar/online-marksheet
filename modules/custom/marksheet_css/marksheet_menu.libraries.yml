@@ -1,0 +1,5 @@
+drupal.user-id-card:
+  version: 1.x
+  css:
+    theme:
+      css/user-id-card.css: {}

@@ -1,0 +1,33 @@
+<?php
+
+use \Drupal\views\ViewExecutable;
+use \Drupal\field\FieldStorageConfigInterface;
+//Implements hook_views_pre_render()
+// // //
+// function view_custom_views_pre_render(ViewExecutable $view) {
+
+//   if ($view->id() == "marksheet_menu" && $view->current_display == 'marksheet') {
+//     // $results = $view->result;
+//     // foreach ($results as $view_value) {
+//     //   $em = get_email_by_rid($view_value->result_id);
+//     // }
+//     // print_r('<pre>');
+//     // print_r($view->setTitle());
+//     // die();
+    
+//   }
+//  }
+
+// Implements hook_field_views_data
+
+
+// function view_custom_field_views_data(FieldStorageConfigInterface $field_storage) {
+//  print_r('<pre>');
+//  print_r($field_storage);
+//  die();
+//  }
+function view_custom_page_alter(&$page) {
+  print_r('<pre>');
+  print_r($page);
+}
+

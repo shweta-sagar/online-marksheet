@@ -1,0 +1,37 @@
+.view-admit-card  {
+	border: 1px solid black; width: auto; height: auto;
+}
+.view-admit-card .views-field.views-field-field-student-image .field-content img{ float: right; width: 200px; height: 150px;
+border: 1px solid black; margin: 5px; }
+/*Top heading*/
+.view-admit-card .views-field-nothing-2{ font-size: 20px; color: #A52A2A; text-align: center; border-bottom: 1px solid #000000;
+ }
+ /*label of fields*/
+.view-admit-card .views-field.views-field-field-id, .views-field.views-field-field-name, .views-field.views-field-nothing-3,
+.views-field.views-field-nothing-1, .views-field.views-field-field-hall-ticket-no, 
+.views-field.views-field-field-center-no, .views-field.views-field-field-college-name,
+.views-field.views-field-field-semester, .views-field.views-field-nothing {
+ margin-left: 20px; margin-right: 10px; color: #000000;  }
+
+/*uderlining card heading*/
+.view-admit-card .views-field.views-field-nothing-2 .field-content{ text-decoration-style: solid; text-decoration-line: underline;
+text-decoration-color:  #808080; }
+
+/*fields content*/
+.view-admit-card .views-field.views-field-field-id .field-content, .views-field.views-field-field-name .field-content,
+.views-field.views-field-nothing-3 .field-content, .views-field.views-field-nothing-1 .field-content, 
+.views-field.views-field-field-hall-ticket-no .field-content, .views-field.views-field-field-center-no .field-content,
+.views-field.views-field-field-college-name .field-content, .views-field.views-field-field-semester .field-content,
+.views-field.views-field-nothing .field-content{
+	display: inline-block; color: #666666; border-bottom: none; margin-left: 10px;} 
+
+.view-user-id-card .views-element-container{ border-style: none;}
+/*line above note*/
+.view-admit-card .views-field.views-field-nothing { border-top: 1px solid #000; margin: 0 auto; margin-top: 10px; }
+
+.view-admit-card .views-label.views-label-nothing .field-content{ clear: both; display: block; }
+.view-admit-card .views-label.views-label-nothing { clear: left;  }
+.view-admit-card .views-field.views-field-field-semester{ margin-left: 0; clear: right;  }
+.view-admit-card .views-field.views-field-nothing-4, .views-field.views-field-nothing-5{ 
+	border: 1px solid black; width: 300px; height: 100px; display: inline-block;
+	margin-left: 30px; padding-left: 10px;  }

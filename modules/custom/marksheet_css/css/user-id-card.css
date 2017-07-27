@@ -1,0 +1,22 @@
+/*#user_id_card{ border-color: rgb(0,0,0); border-width: 1px;  width: 350px; height: auto; }
+.field-content{ font-size: 20px; text-align: center; }
+#field_college_name{ color: #0000FF; border-bottom-width: 1px; border-bottom-color: rgb(0,0,0); text-align: center;
+font-size: 20px; color: 
+}
+#field_student_image{ width: 200px; height: 170px; border-color: rgb(0,0,0); border-width: 1px; left: 100px; 
+	margin-left: 50px; margin-top: 20px;
+ }
+/*#field_user_name{  }*/
+/*.path-student-card .views-field.views-field-field-student-image{ 
+	float: right;
+	border: 1px solid black; 
+}
+*/
+
+.path-student-card {
+	color: red;
+}
+
+.user-id-card {
+	color: yellow;
+}

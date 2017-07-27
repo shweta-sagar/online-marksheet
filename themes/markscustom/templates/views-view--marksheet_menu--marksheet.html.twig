@@ -1,0 +1,15 @@
+{# <h5 id="user">Hey {{ view.field.field_user_name.original_value }} check out your score here...</h5> #}
+<ul id="markslist">
+  {% for viewdata in view.field %}
+    <li>Your marks : {{ viewdata.original_value }}</li>
+  {% endfor %}
+</ul>
+<div class="image">
+  <img src="marksheet_css/css/girl.jpeg" alt="Girls image"/>
+  <h2>A movie in the park:<br/>Kung Fu Panda</h2>
+</div>
+{# 
+<pre>
+    {{ dump(view.field.field_user_name) }}
+</pre>
+ #}

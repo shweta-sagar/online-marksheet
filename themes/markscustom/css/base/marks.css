@@ -1,0 +1,32 @@
+
+body {
+	background-color: #FFE4E1;
+}
+#markslist{ color: #696969; border: 1px solid #000; width: 350px; background-color: #87CEFA;
+ border-radius: 5px; height: auto;}
+#markslist li:hover{ color: #DC143C; }
+
+.image{ position: relative; width: 100%; }
+
+h2{ position: relative; top: 200px; left: 0; width: 100%; }
+/*.view-user-id-card{ border-style: solid; border-color: #BDB76B; display: block; 
+  height: 420px; width: 300px;} // id card div 
+
+.views-field.views-field-field-college-name
+
+.view-user-id-card .views-field.views-field-field-college-name { font-size: 20px; color: #B8860B; 
+  font-family: Verdana; text-align: center; border-bottom: 1px solid #696969;}
+.view-user-id-card .views-field.views-field-field-student-image{ border-bottom: 1px solid #696969; }
+
+.view-user-id-card .views-label.views-label-field-name, .views-label.views-label-uid, .views-label.views-label-field-semester,
+.views-label.views-label-field-mobile-no{ float: left; clear: both; }
+.view-user-id-card .views-field.views-field-field-name, .views-label.views-label-field-semester, .views-label.views-label-uid,
+.views-label.views-label-field-mobile-no{ color: #9400D3; float: left; margin-right: 10px;  margin-left: 20px; }
+
+.view-user-id-card .views-field.views-field-field-semester .field-content, .views-field.views-field-field-name .field-content,
+.views-field.views-field-uid .field-content, .views-field.views-field-field-mobile-no .field-content{
+ color: #FF1983;display: inline-block;}
+
+.view-user-id-card .views-label.views-label-uid .field-content{ display: inline-block; clear: both; }
+.view-user-id-card .views-field-uid {clear: both; }*/
+ 

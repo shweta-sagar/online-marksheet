@@ -1,0 +1,22 @@
+name: markscustom
+type: theme
+base theme: bartik
+description: 'Theme to overwrite marksheet menu view in Drupal 8'
+package: Core
+version: '8.1.0'
+project: 'drupal'
+core: 8.x
+libraries:
+  - markscustom/global-style
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  highlighted: Highlighted
+  featured_top: 'Featured top'
+  breadcrumb: Breadcrumb
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'

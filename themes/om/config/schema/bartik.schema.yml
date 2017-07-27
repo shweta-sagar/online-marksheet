@@ -1,0 +1,5 @@
+# Schema for the configuration files of the om theme.
+
+om.settings:
+  type: theme_settings
+  label: 'om settings'
